@@ -36,4 +36,4 @@ if (b.Length > 0)
 {
     result[index] = b;
 }
-Console.WriteLine("<" + b + ">");  
+Console.WriteLine("<" + b + ">");   
